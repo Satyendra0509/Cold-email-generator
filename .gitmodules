@@ -1,0 +1,3 @@
+[submodule "file"]
+	path = file
+	url = https://github.com/Satyendra0509/Cold-email-generator.git
